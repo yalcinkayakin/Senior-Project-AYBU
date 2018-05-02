@@ -1,0 +1,107 @@
+subject,assessment,state,impact,likelihood,category
+Strategic Management Risks,Budgeting (relates to availability or allocation of resources),REPORTED,MAJOR,LIKELY,STRATEGİC
+Strategic Management Risks,Fraud or Theft,REPORTED,INSIGNIFICANT,CREDIBLE,STRATEGİC
+Strategic Management Risks,Unethical dealings,REPORTED,EXTREME,REMOTE,STRATEGİC
+Strategic Management Risks,Product and or services failure (resulting in lack of support to business process),REPORTED,MODERATE,CERTAIN,STRATEGİC
+Strategic Management Risks,Public perception and reputation,REPORTED,MAJOR,UNLIKELY,STRATEGİC
+Strategic Management Risks,Exploitation of employees and or suppliers (availability and retention of suitable staff),UNREPORTED,MAJOR,CREDIBLE,STRATEGİC
+Strategic Management Risks,"Environmental (mismanagement issues relating to fuel consumption, pollution etc)",UNREPORTED,MODERATE,CREDIBLE,STRATEGİC
+Strategic Management Risks,Occupational health and safety mismanagement and or liability,REPORTED,MAJOR,UNLIKELY,STRATEGİC
+Strategic Management Risks,Failure to comply with legal and regulatory obligations and or contractual aspect (can you sue or be sued),REPORTED,EXTREME,UNLIKELY,STRATEGİC
+Strategic Management Risks,Civil Action,REPORTED,EXTREME,UNLIKELY,STRATEGİC
+Strategic Management Risks,"Failure of the infrastructure (including utility supplies, computer networks etc)",UNREPORTED,MAJOR,LİKELY,STRATEGİC
+Strategic Management Risks,Failure to control intellectual property (as a result of abuse or industrial espionage),REPORTED,MAJOR,REMOTE,STRATEGİC
+Strategic Management Risks,Failure to take account of widespread disease or illness among the workforce,REPORTED,MAJOR,REMOTE,STRATEGİC
+Strategic Management Risks,Failure to complete to published deadlines or timescales,REPORTED,MODERATE,LİKELY,STRATEGİC
+Strategic Management Risks,Failure to take on new technology where appropriate to achieve objectives,REPORTED,MAJOR,CERTAIN,STRATEGİC
+Strategic Management Risks,Failure to invest appropriately,REPORTED,EXTREME,CREDIBLE,STRATEGİC
+Strategic Management Risks,Failure to control IT effectively,REPORTED,MAJOR,LİKELY,STRATEGİC
+Strategic Management Risks,Failure to establish a positive culture following business change,REPORTED,MODERATE,REMOTE,STRATEGİC
+Strategic Management Risks,Vulnerability of resources (material and people),UNREPORTED,MODERATE,REMOTE,STRATEGİC
+Strategic Management Risks,Failure to establish effective continuity arrangements in the event of disaster,UNREPORTED,MAJOR,CREDIBLE,STRATEGİC
+Strategic Management Risks,"Inadequate insurance/contingency provision and disasters such as fire, floods and bomb incidents",REPORTED,EXTREME,REMOTE,STRATEGİC
+Strategic Management Risks,"Failure to address economic factors (such as interest rates, inflation)",REPORTED,EXTREME,CERTAIN,STRATEGİC
+Strategic Management Risks,"Political and market factors (for management of risk, security etc)",REPORTED,MODERATE,LİKELY,STRATEGİC
+Strategic Management Risks,Operational procedures – adequate and appropriate,UNREPORTED,INSIGNIFICANT,CERTAIN,STRATEGİC
+Strategic Management Risks,Capability to innovate (to exploit opportunities),REPORTED,INSIGNIFICANT,CREDIBLE,STRATEGİC
+Strategic/Commercial Risks,Under performance of services relative to specification,UNREPORTED,EXTREME,LİKELY,STRATEGİC
+Strategic/Commercial Risks,Management will under perform against expectations,REPORTED,EXTREME,REMOTE,STRATEGİC
+Strategic/Commercial Risks,Collapse of contractors,UNREPORTED,MODERATE,UNLIKELY,STRATEGİC
+Strategic/Commercial Risks,"Failure of suppliers to meet contractual commitments (this could be in terms of quality, quantity, and timescales on their own exposures to risk)",UNREPORTED,MODERATE,UNLIKELY,STRATEGİC
+Strategic/Commercial Risks,"Insufficient capital investment, shortfall in revenue expected / planned",REPORTED,MODERATE,UNLIKELY,STRATEGİC
+Strategic/Commercial Risks,Fraud/Thef,REPORTED,MAJOR,UNLIKELY,STRATEGİC
+Strategic/Commercial Risks,Partnerships failing to deliver desired outcome,UNREPORTED,MODERATE,CREDIBLE,STRATEGİC
+Strategic/Commercial Risks,An event being non insurable or cost of insurance outweighs the benefit,UNREPORTED,MAJOR,REMOTE,STRATEGİC
+Economical/Financial/Market,Exchange rate fluctuation,REPORTED,MODERATE,UNLIKELY,FINANCIAL
+Economical/Financial/Market,Interest rate instability,UNREPORTED,MODERATE,UNLIKELY,FINANCIAL
+Economical/Financial/Market,Inflation,REPORTED,MAJOR,UNLIKELY,FINANCIAL
+Economical/Financial/Market,Shortage of working capital,REPORTED,MAJOR,CREDIBLE,FINANCIAL
+Economical/Financial/Market,Failure to meet project revenue targets,REPORTED,EXTREME,UNLIKELY,FINANCIAL
+Economical/Financial/Market,Market developments will adversely affect plans,REPORTED,EXTREME,UNLIKELY,FINANCIAL
+Legal and Regulatory,New or changed legislation may invalidate assumptions upon which the activity is based,REPORTED,EXTREME,REMOTE,LEGAL
+Legal and Regulatory,Failure to obtain appropriate approval (e.g. planning consent),REPORTED,MAJOR,REMOTE,LEGAL
+Legal and Regulatory,Unforeseen inclusion or contingent liabilities,UNREPORTED,INSIGNIFICANT,UNLIKELY,LEGAL
+Legal and Regulatory,Loss of intellectual property rights,REPORTED,MODERATE,REMOTE,LEGAL
+Legal and Regulatory,Failure to achieve satisfactory contractual arrangements,REPORTED,MODERATE,REMOTE,LEGAL
+Legal and Regulatory,Unexpected regulatory controls of licensing requirements,UNREPORTED,MODERATE,REMOTE,LEGAL
+Legal and Regulatory,Changes in tax structure,UNREPORTED,MAJOR,UNLIKELY,LEGAL
+Reputation,Adverse media attention,UNREPORTED,MODERATE,REMOTE,REPUTATİON
+Reputation,Policies misunderstood or misinterpreted,REPORTED,EXTREME,REMOTE,REPUTATİON
+Reputation,Negative implications identified by others which have not been previously considered,UNREPORTED,EXTREME,UNLIKELY,REPUTATİON
+Reputation,Failure to keep partners on side,REPORTED,MODERATE,REMOTE,REPUTATİON
+Reputation,Breach of confidentiality,UNREPORTED,MAJOR,UNLIKELY,REPUTATİON
+Reputation,Lack of business continuity plan,REPORTED,MODERATE,REMOTE,REPUTATİON
+Reputation,Failure to maintain property,REPORTED,EXTREME,UNLIKELY,REPUTATİON
+Organisation/Management/Human Factors,Management incompetence,REPORTED,MAJOR,REMOTE,ORGANIZATIONAL
+Organisation/Management/Human Factors,Inadequate corporate policies,REPORTED,MAJOR,UNLIKELY,ORGANIZATIONAL
+Organisation/Management/Human Factors,Inadequate adoption of management practices,REPORTED,MODERATE,UNLIKELY,ORGANIZATIONAL
+Organisation/Management/Human Factors,Poor leadership,UNREPORTED,EXTREME,UNLIKELY,ORGANIZATIONAL
+Organisation/Management/Human Factors,Key personnel have inadequate authority to fulfil roles,UNREPORTED,MAJOR,UNLIKELY,ORGANIZATIONAL
+Organisation/Management/Human Factors,Poor staff selection procedures,UNREPORTED,EXTREME,UNLIKELY,ORGANIZATIONAL
+Organisation/Management/Human Factors,Lack of clarity over roles and responsibilities,REPORTED,MAJOR,CERTAIN,ORGANIZATIONAL
+Organisation/Management/Human Factors,Vested interest creating conflict and compromising the overall aims,UNREPORTED,MODERATE,REMOTE,ORGANIZATIONAL
+Organisation/Management/Human Factors,Individual or group interests given unwarranted priority,REPORTED,EXTREME,REMOTE,ORGANIZATIONAL
+Organisation/Management/Human Factors,Personality clashes,UNREPORTED,MAJOR,REMOTE,PEOPLE
+Organisation/Management/Human Factors,Indecisions or inaccurate information,REPORTED,MAJOR,LİKELY,PEOPLE
+Organisation/Management/Human Factors,Health and safety constraints,REPORTED,MAJOR,CERTAIN,ORGANIZATIONAL
+Environmental,Natural hazards,REPORTED,EXTREME,UNLIKELY,ENVİRONMENTAL
+Environmental,Security,REPORTED,EXTREME,UNLIKELY,ENVİRONMENTAL
+Environmental,Public Health (legionella/food safety),REPORTED,MAJOR,REMOTE,ENVİRONMENTAL
+Environmental,Emergency management,REPORTED,MAJOR,UNLIKELY,ENVİRONMENTAL
+Environmental,Waste and refuse,REPORTED,MODERATE,UNLIKELY,ENVİRONMENTAL
+Environmental,Pollution incidents,REPORTED,MODERATE,REMOTE,ENVİRONMENTAL
+Environmental,Transport problems,REPORTED,MAJOR,LİKELY,ENVİRONMENTAL
+Environmental,Radiation,REPORTED,EXTREME,UNLIKELY,ENVİRONMENTAL
+Environmental,"Hazardous and toxic materials(chemicals asbestos, gas etc)",REPORTED,EXTREME,UNLIKELY,ENVİRONMENTAL
+Political,Change of government policy,UNREPORTED,MAJOR,REMOTE,POLİTİCAL
+Political,Change of government,UNREPORTED,MAJOR,REMOTE,POLİTİCAL
+Political,War and disorder,UNREPORTED,MAJOR,REMOTE,POLİTİCAL
+Political,Adverse public opinion/media intervention,UNREPORTED,MODERATE,CERTAIN,POLİTİCAL
+Technical/Operational/Infrastructure,Inadequate design,REPORTED,EXTREME,UNLIKELY,TECHNICAL
+Technical/Operational/Infrastructure,Professional negligence,REPORTED,EXTREME,UNLIKELY,TECHNICAL
+Technical/Operational/Infrastructure,Human error/incompetence,REPORTED,MAJOR,REMOTE,TECHNICAL
+Technical/Operational/Infrastructure,Infrastructure failure,REPORTED,MAJOR,CERTAIN,TECHNICAL
+Technical/Operational/Infrastructure,Increased dismantling/decommissioning costs,REPORTED,MODERATE,UNLIKELY,TECHNICAL
+Technical/Operational/Infrastructure,Safety being compromised,REPORTED,EXTREME,REMOTE,TECHNICAL
+Technical/Operational/Infrastructure,Performance failure,REPORTED,MAJOR,UNLIKELY,TECHNICAL
+Technical/Operational/Infrastructure,Residual maintenance problems,REPORTED,EXTREME,UNLIKELY,TECHNICAL
+Technical/Operational/Infrastructure,Unclear expectations,REPORTED,EXTREME,LİKELY,TECHNICAL
+Technical/Operational/Infrastructure,Breaches in statutory/information security,REPORTED,MAJOR,REMOTE,TECHNICAL
+Technical/Operational/Infrastructure,Lack or inadequacy of business continuity plans,REPORTED,MAJOR,UNLIKELY,TECHNICAL
+People Risks,Human Resource Management practices,REPORTED,MODERATE,UNLIKELY,PEOPLE
+People Risks,Recruitment,REPORTED,MODERATE,CREDIBLE,PEOPLE
+People Risks,Induction,REPORTED,MODERATE,REMOTE,PEOPLE
+People Risks,Training and development,REPORTED,MODERATE,UNLIKELY,PEOPLE
+People Risks,Health and Safety Management Systems,REPORTED,MAJOR,UNLIKELY,PEOPLE
+People Risks,Industrial action,REPORTED,MAJOR,REMOTE,PEOPLE
+People Risks,Occupational Health,REPORTED,EXTREME,REMOTE,PEOPLE
+People Risks,Radiation,REPORTED,EXTREME,REMOTE,PEOPLE
+Operational Risks,Lack of clarity of service requirements,REPORTED,MODERATE,UNLIKELY,OPERATİONAL
+Operational Risks,Inadequate infrastructure to provide required operational services,REPORTED,MAJOR,UNLIKELY,OPERATİONAL
+Operational Risks,Inadequate or inappropriate people available to support the required service provision,REPORTED,MODERATE,REMOTE,OPERATİONAL
+Operational Risks,Inappropriate contract in place and or inadequate contract management to support the required level of service provision,REPORTED,MODERATE,REMOTE,OPERATİONAL
+Operational Risks,"Changing requirements, enabled in an uncontrolled way",REPORTED,MODERATE,UNLIKELY,OPERATİONAL
+Operational Risks,"Products passed to operational teams without due consideration to implementation, handover, subsequent maintenance and decommissioning",REPORTED,MODERATE,UNLIKELY,OPERATİONAL
+Operational Risks,Unexpected or inappropriate expectations of service users,REPORTED,MODERATE,REMOTE,OPERATİONAL
+Operational Risks,Lack or inadequacy of business continuity or contingency measures with regard to maintaining critical business services,REPORTED,EXTREME,REMOTE,OPERATİONAL
+Operational Risks,Failing to meet legal or contractual obligations,REPORTED,MAJOR,UNLIKELY,OPERATİONAL
